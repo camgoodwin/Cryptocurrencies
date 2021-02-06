@@ -1,17 +1,17 @@
 # Cryptocurrencies
 
-![image](Images/crypto_df.PNG)
+![image](Challenge/Images/crypto_df.PNG)
 
-![image](Images/clustered_df.PNG)
+![image](Challenge/Images/clustered_df.PNG)
 
-![image](Images/pcs_df.PNG)
+![image](Challenge/Images/pcs_df.PNG)
 
-![image](Images/clustered_final.PNG)
+![image](Challenge/Images/clustered_final.PNG)
 
-![image](Images/elbow_curve.PNG)
+![image](Challenge/Images/elbow_curve.PNG)
 
-![image](Images/3D_scatter.PNG)
+![image](Challenge/Images/3D_scatter.PNG)
 
-![image](Images/hvplot_table.PNG)
+![image](Challenge/Images/hvplot_table.PNG)
 
-![image](Images/scatter_plot.PNG)
+![image](Challenge/Images/scatter_plot.PNG)
